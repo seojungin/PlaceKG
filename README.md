@@ -1,5 +1,9 @@
 # PlaceKG 
-코스추천을 위한 지역별 장소의 특성을 담은 지식그래프 
+: 코스추천을 위한 지역별 장소의 특성을 담은 지식그래프
+  - 상호명과 주소 정보가 담긴 장소를 behavior(eat,drink,walk,see,play)로 구분
+  - 서울의 행정동과 장소의 주소정보를 비교해 장소와 지역을 연결
+  - 위의 정보를 담은 RDF 파일 생성 
+  
   # DATA 
   - data set
     1.  store__info.csv : https://www.dropbox.com/sh/1u8jy3zk3788w6m/AABGAbAI2P1Bp8AhWRhowPEha?dl=0

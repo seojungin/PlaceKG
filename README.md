@@ -1,5 +1,5 @@
 # PlaceKG
-코스추천을 위한 지역별 장소의 특성을 담은 지식그래프 
+# 코스추천을 위한 지역별 장소의 특성을 담은 지식그래프 
 
 - data 
   1.  store__info.csv : https://www.dropbox.com/sh/1u8jy3zk3788w6m/AABGAbAI2P1Bp8AhWRhowPEha?dl=0

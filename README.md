@@ -8,3 +8,9 @@
 
     2.  행정동_법정동_20230330.csv : https://www.dropbox.com/s/vkmyrni5efhibtx/%ED%96%89%EC%A0%95%EB%8F%99_%EB%B2%95%EC%A0%95%EB%8F%99_20230330.csv?dl=0
   # KnowledgeGraph 
+  - PlaceKG example
+  
+  - PlaceKG SPARQL Query example
+    - select * where { ?s <http://Place.com/place/name> ?name. } 
+       ![image](https://github.com/seojungin/PlaceKG/assets/84067454/21c2b056-a9d8-43ae-afca-c4e36683637b)
+

@@ -2,10 +2,10 @@
 : 코스추천을 위한 지역별 장소의 특성을 담은 지식그래프
   - 상호명과 주소 정보가 담긴 장소를 behavior(eat,drink,walk,see,play)로 구분
   - 서울의 행정동과 장소의 주소정보를 비교해 장소와 지역을 연결
-  - 위의 정보를 담은 RDF 파일 생성 
+  - 위의 정보를 담은 place_rdf.txt 생성 
   
   # DATA 
-  - data set
+  - Datasets
     1.  store__info.csv : https://www.dropbox.com/sh/1u8jy3zk3788w6m/AABGAbAI2P1Bp8AhWRhowPEha?dl=0
          - 대분류소분류 속성정리표 (store__info.csv에 참고 사용) : https://www.dropbox.com/s/jranoz02djjxnjg/%EB%8C%80%EB%B6%84%EB%A5%98%EC%86%8C%EB%B6%84%EB%A5%98%20%EC%86%8D%EC%84%B1%EC%A0%95%EB%A6%AC%ED%91%9C.xlsx?dl=0
          
